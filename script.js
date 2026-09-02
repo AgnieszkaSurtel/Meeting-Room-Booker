@@ -1,7 +1,7 @@
 const rooms = [
-    { id: 1, name: "Conference Room ", capacity: 10, image: "room1.jpg" },
-    { id: 2, name: "Creative Hub", capacity: 6, image: "room2.jpg" },
-    { id: 3, name: "Buissness Room", capacity: 2, image: "room3.jpg" }
+    { id: 1, name: "Conference Room ", capacity: 10, image: "assets/room1.jpg" },
+    { id: 2, name: "Creative Hub", capacity: 6, image: "assets/room2.jpg" },
+    { id: 3, name: "Business Room", capacity: 2, image: "assets/room3.jpg" }
 ];
 
 const timeSlots = ["09:00", "10:00", "11:00", "12:00", "13:00", "14:00", "15:00"];
